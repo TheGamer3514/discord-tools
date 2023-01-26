@@ -21,3 +21,7 @@ Honestly this is so simple, i won't help you :)
 # Webhook Spammer
 ## Get Webhook URL
 You can visit [This Site](https://hookdeck.com/webhooks/platforms/how-to-get-started-with-discord-webhooks) for help on how to do so!
+
+# Credits
+[@TheGamer3514](https://github.com/TheGamer3514) - Everything [@ukcai696969](https://github.com/ukcai696969) Did Not Do 🙂 <br />
+[@ukcai696969](https://github.com/ukcai696969) - Helping With Keep Alive Server And Auto Send
