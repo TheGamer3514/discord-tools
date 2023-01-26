@@ -1,0 +1,8 @@
+{
+    "Config": [
+        {
+            "webhook": "webhook url",
+            "message": "message to send!"
+         }
+    ]
+}
