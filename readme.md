@@ -3,7 +3,7 @@ A group of python tools related to discord!
 
 - Support: https://discord.gg/3qvpkgWSbF
 # Notice
-These tools might be against discord tos :). Run at your own risk!
+⚠️ These tools might be against discord tos :). Run at your own risk! ⚠️
 # Setup
 1. Fill Out All The Config In The Config Folder
 2. Run `python main.py`
