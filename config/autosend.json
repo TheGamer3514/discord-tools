@@ -1,0 +1,10 @@
+{
+    "Config": [
+        {
+            "token": "account token",
+            "channelid": "place to senf the message",
+            "message": "message to be sent",
+            "web": "False"
+         }
+    ]
+}
